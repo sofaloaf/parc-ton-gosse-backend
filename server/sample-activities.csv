@@ -1,0 +1,11 @@
+id,Title EN,Title FR,Description EN,Description FR,categories,ageMin,ageMax,price,neighborhood,providerId
+activity-1,Music Workshop,Atelier Musique,Introduction to music for children,Introduction à la musique pour enfants,"music,arts",6,9,1500,11e,provider-1
+activity-2,Soccer Training,Entraînement Football,Weekly soccer training sessions,Entraînements de football hebdomadaires,sports,8,12,2000,16e,provider-2
+activity-3,Art & Craft,Arts et Créations,Creative art and craft sessions,Ateliers d'arts créatifs,"arts,nature",4,7,1200,5e,provider-3
+activity-4,Coding for Kids,Programmation pour Enfants,Introduction to coding,Introduction à la programmation,stem,10,14,3000,7e,provider-4
+activity-5,Nature Walk,Balade Nature,Disfindscover nature in Paris parks,Découvrir la nature dans les parcs parisiens,nature,5,10,800,12e,provider-5
+activity-6,Piano Lessons,Cours de Piano,Individual piano lessons,Cours de piano individuels,music,7,15,3500,9e,provider-6
+activity-7,English Conversation,Conversation Anglaise,Practice English with games,Pratiquer l'anglais avec des jeux,language,6,10,1800,3e,provider-7
+activity-8,Basketball Camp,Camp de Basketball,Summer basketball camp,Camp de basket d'été,sports,9,13,2500,15e,provider-8
+
+

@@ -1,0 +1,31 @@
+{
+  "name": "parc-ton-gosse-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "NODE_ENV=production node index.js"
+  },
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.45",
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "express-validator": "^7.3.0",
+    "google-auth-library": "^10.5.0",
+    "googleapis": "^144.0.0",
+    "helmet": "^7.1.0",
+    "joi": "^18.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^3.3.2",
+    "papaparse": "^5.4.1",
+    "stripe": "^14.24.0",
+    "uuid": "^9.0.1"
+  }
+}
