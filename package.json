@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "build": "npm install --prefix server --omit=dev",
     "start": "npm --prefix server run start"
   }
 }
