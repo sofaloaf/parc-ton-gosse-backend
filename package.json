@@ -1,17 +1,9 @@
 {
-  "name": "parc-ton-gosse",
+  "name": "parc-ton-gosse-backend",
   "version": "0.1.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "npm --prefix server run start",
-    "dev": "node start.js",
-    "start:server": "cd server && npm run dev",
-    "start:client": "cd client && npm run dev",
-    "install:all": "cd server && npm install && cd ../client && npm install",
-    "qr": "node generate-qr-code.js"
-  },
-  "devDependencies": {
-    "qrcode": "^1.5.4"
+    "start": "npm --prefix server run start"
   }
 }
