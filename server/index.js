@@ -42,6 +42,7 @@ import { requireAuth } from './middleware/auth.js';
 import { csrfProtection } from './middleware/csrf.js';
 
 const app = express();
+// Railway sets PORT automatically - use it or fallback to 4000 for local dev
 const PORT = process.env.PORT || 4000;
 
 // Log all incoming requests for debugging
